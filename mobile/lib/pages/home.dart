@@ -321,6 +321,14 @@ class _HomePageState extends State<HomePage> {
                       fontWeight: FontWeight.bold,
                     ),
                   ),
+                  SizedBox(height: 4),
+                  Text(
+                    _userEmail,
+                    style: TextStyle(
+                      color: Colors.white70,
+                      fontSize: 14,
+                    ),
+                  ),
                   SizedBox(height: 16),
                   Container(
                     padding: EdgeInsets.symmetric(horizontal: 16, vertical: 12),

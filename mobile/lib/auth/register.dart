@@ -4,7 +4,7 @@ import 'dart:convert';
 import 'package:shared_preferences/shared_preferences.dart';
 import '../settings.dart';
 import '../pages/home.dart';
-import 'login.dart';
+
 
 class RegisterPage extends StatefulWidget {
   @override
