@@ -61,7 +61,7 @@ Aplikasi ini cocok untuk pelajar, mahasiswa, maupun pekerja yang ingin produktif
 ### 1. Clone Repository
 
 ```sh
-git clone https://github.com/username/ToDoList.git
+git clone https://github.com/fitrahnurivanto/ToDoList.git
 cd ToDoList
 ```
 
